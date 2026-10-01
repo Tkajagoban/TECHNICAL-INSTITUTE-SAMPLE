@@ -43,8 +43,7 @@ desktop.ini
 *.sublime-project
 *.sublime-workspace
 
-# Figma & Platform internal state
+# Platform internal state
 .claude-replay.*
-/.figma/design-context/
 /.plugins/
 /.opencode-skills/
